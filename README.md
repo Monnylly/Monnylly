@@ -29,8 +29,5 @@
    <a href="https://instagram.com/monnylly.santos?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:monnylly@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
-    ![Snake animation](https://github.com/monnylly/monnylly/blob/output/github-contribution-grid-snake.svg)
-    
-
   </div>
-  
+      ![Snake animation](https://github.com/Monnylly/Monnylly/blob/output/github-contribution-grid-snake.svg)

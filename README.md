@@ -20,7 +20,7 @@
 <img align="center" alt="monny_mysql" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" 
      />
 <img align="center" alt="monny-wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
- <img align="right" alt="monny-gif" src="https://discord.com/channels/@me/906239580221620225" />
+<!--  <img align="right" alt="monny-gif" src="https://discord.com/channels/@me/906239580221620225" /> -->
 </div>
   
 ##

@@ -1,6 +1,6 @@
-<h1> Olá, eu sou a Monnylly Negreiros✨👋</h1>
+<h1> Olá, eu sou a Monnylly✨👋</h1>
 
-- 🔭 Em processo de transição de carreira, com mais de 15 anos com diversas experiências no mercado de trabalho, sai em busca de um novo desafio, uma area que esta em constante movimento e com diversos segmentos. 
+- 🔭 Concuída transição de carreira - Analista de sistemas JR
 - Uma das coisas que mais me motivou foi sair de um setor individualista, competitivo e stagnado para uma area dinamica, atual e com uma grande comunidade que se ajuda, com espirito colaborativo, empatia e incentivo.
    
 - 👩‍💻 Estudando: Curso Full Stack Web / Trybe

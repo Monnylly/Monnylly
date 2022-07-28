@@ -5,7 +5,7 @@
    
 - 👩‍💻 Estudando: Curso Full Stack Web / Trybe
 - 📫 Contate-me: monnylly@gmail.com
-- 👜 Transição de carreira
+
   
   <div align="center">
   <a href="https://github.com/Monnylly">
